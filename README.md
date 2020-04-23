@@ -21,5 +21,5 @@ __Attention!__
 
 ## Video
 <a href="https://www.youtube.com/watch?v=x2wlny_Bjao&t" target="_blank">
-	<img src="http://https://img.youtube.com/vi/x2wlny_Bjao/0.jpg" alt="ARDUINO VOLTMETER" width="240" height="180" border="10" />
+	<img src="https://img.youtube.com/vi/x2wlny_Bjao/0.jpg" alt="ARDUINO VOLTMETER" width="240" height="180" border="10" />
 </a>
